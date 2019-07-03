@@ -1,3 +1,3 @@
 # SSCOM
 This is a serial debugging assistant.
-AND Today is July 2, 2019.
+This is my first time uploading the code to github.
